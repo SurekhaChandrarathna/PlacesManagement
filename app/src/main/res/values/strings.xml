@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TripIt</string>
+
+    <string name="button_text">Anuradhapura</string>
+    <string name="button_text2">Jaffna</string>
+    <string name="button_text3">Kandy</string>
+    <string name="button_text4">Kegalle</string>
+    <string name="button_text5">Mathale</string>
+    <string name="button_text6">Yapahuwa</string>
+
+    <string name="TV1">Search city</string>
+
+</resources>
