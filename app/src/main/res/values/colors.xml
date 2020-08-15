@@ -5,4 +5,7 @@
     <color name="colorAccent">#03DAC5</color>
     <color name = "tiColor1">#5d93d8</color>
     <color name = "BtnColor">#90f9ac</color>
+    <color name = "Btncolor2">#f0916c</color>
+    <color name = "Btncolor3">#6f92f2</color>
+    <color name = "Btncolor4">#aa6ff2</color>
 </resources>

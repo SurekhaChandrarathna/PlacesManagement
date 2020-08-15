@@ -10,4 +10,12 @@
 
     <string name="TV1">Search city</string>
 
+    <string name="TV2">--Welcome to--</string>
+    <string name="Tv3">TripIt</string>
+
+    <string name="button_text7">Places</string>
+    <string name="button_text8">Hotels</string>
+    <string name="button_text9">Guides</string>
+    <string name="button_text10">Shop</string>
+
 </resources>
