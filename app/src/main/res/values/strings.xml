@@ -42,7 +42,22 @@
         The lake and the surrounding area make up the Gregory Lake Area
     </string>
 
-    <string name ="adbtn">Add Places</string>
-    <string name ="adbtn1">View Places</string>
+    <string name="adbtn">Add Places</string>
+    <string name="adbtn1">View Places</string>
+
+    <!-- string resouces of add place form-->
+
+    <string name="place">place</string>
+    <string name="des">Description</string>
+    <string name="rate">Add rate</string>
+    <string name="city">City</string>
+    <string name="upload">Upload photos </string>
+
+    <!-- edit text-->
+    <string name="edpl">Enter place</string>
+    <string name="eddes">Description</string>
+    <string name="adcity">Enter City</string>
+    <string name="edup">Drag photos here</string>
+
 
 </resources>
