@@ -59,5 +59,6 @@
     <string name="adcity">Enter City</string>
     <string name="edup">Drag photos here</string>
 
+    <string name = "view"> Places list</string>
 
 </resources>
