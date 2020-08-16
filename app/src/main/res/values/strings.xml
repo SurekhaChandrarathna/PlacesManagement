@@ -7,6 +7,7 @@
     <string name="button_text4">Kegalle</string>
     <string name="button_text5">Mathale</string>
     <string name="button_text6">Yapahuwa</string>
+
     <string name="button_text7">Places</string>
     <string name="button_text8">Hotels</string>
     <string name="button_text9">Guides</string>
@@ -45,6 +46,8 @@
     <string name="adbtn">Add Places</string>
     <string name="adbtn1">View Places</string>
 
+    <string name = "Edit">Edit place</string>
+
     <!-- string resouces of add place form-->
 
     <string name="place">place</string>
@@ -59,6 +62,9 @@
     <string name="adcity">Enter City</string>
     <string name="edup">Drag photos here</string>
 
-    <string name = "view"> Places list</string>
+    <string name="view"> Places list</string>
+    <string name = "editrate">Edit rate</string>
+
+
 
 </resources>

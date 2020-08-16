@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".adminView"></activity>
+        <activity android:name=".EditForm"></activity>
+        <activity android:name=".adminView" />
         <activity android:name=".Addform" />
         <activity android:name=".AdminPg" />
         <activity android:name=".ViewPlace" />
