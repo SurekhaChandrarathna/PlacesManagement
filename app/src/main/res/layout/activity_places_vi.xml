@@ -245,29 +245,31 @@
         android:id="@+id/button10"
         android:layout_width="98dp"
         android:layout_height="50dp"
-        android:layout_marginTop="364dp"
         android:background="@color/BtnColor"
         android:text="@string/button_text11"
         android:textSize="18sp"
         android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.763"
+        app:layout_constraintHorizontal_bias="0.827"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.535" />
 
     <Button
         android:id="@+id/button11"
         android:layout_width="98dp"
         android:layout_height="50dp"
-        android:layout_marginTop="604dp"
         android:background="@color/BtnColor"
         android:text="@string/button_text11"
         android:textSize="18sp"
         android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.83"
+        app:layout_constraintHorizontal_bias="0.853"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.881" />
 
     <ImageView
         android:id="@+id/imageView9"
