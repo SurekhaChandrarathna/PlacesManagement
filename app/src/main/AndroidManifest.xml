@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".WelcomeInt"></activity>
+        <activity android:name=".ViewPlace"></activity>
+        <activity android:name=".PlacesVi" />
+        <activity android:name=".WelcomeInt" />
         <activity android:name=".Cities" />
         <activity android:name=".MainActivity">
             <intent-filter>

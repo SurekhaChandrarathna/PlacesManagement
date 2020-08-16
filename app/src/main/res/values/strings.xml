@@ -7,15 +7,32 @@
     <string name="button_text4">Kegalle</string>
     <string name="button_text5">Mathale</string>
     <string name="button_text6">Yapahuwa</string>
+    <string name="button_text7">Places</string>
+    <string name="button_text8">Hotels</string>
+    <string name="button_text9">Guides</string>
+    <string name="button_text10">Shop</string>
+    <string name="button_text11">View</string>
 
     <string name="TV1">Search city</string>
 
     <string name="TV2">--Welcome to--</string>
     <string name="Tv3">TripIt</string>
 
-    <string name="button_text7">Places</string>
-    <string name="button_text8">Hotels</string>
-    <string name="button_text9">Guides</string>
-    <string name="button_text10">Shop</string>
+    <string name="TVI1">Search place</string>
+    <string name="TVI2">Nuwaraeliya</string>
+    <string name="TVI3">Places to visit</string>
+
+    <string name="Pls1">Hortain plains</string>
+    <string name="Pls2">Gregory Lake</string>
+
+    <string name="desc1">Hortain plains............
+                        .............
+                        ..............
+    </string>
+    <string name="desc2">Gregory Lake...........
+                        ..................
+                        ..................
+    </string>
+
 
 </resources>
