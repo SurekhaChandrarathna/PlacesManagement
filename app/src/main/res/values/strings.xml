@@ -34,13 +34,15 @@
                         ..................
     </string>
 
-    <string name = "map">Map</string>
+    <string name="map">Map</string>
 
-    <string name = "lakeGreg">Lake Gregory, sometimes also called Gregory Lake or Gregory Reservoir,
+    <string name="lakeGreg">Lake Gregory, sometimes also called Gregory Lake or Gregory Reservoir,
         is a reservoir in heart of the tea country hill city, Nuwara Eliya, Sri Lanka.
         Lake Gregory was constructed during the period of British Governor Sir William Gregory in 1873.
         The lake and the surrounding area make up the Gregory Lake Area
     </string>
 
+    <string name ="adbtn">Add Places</string>
+    <string name ="adbtn1">View Places</string>
 
 </resources>

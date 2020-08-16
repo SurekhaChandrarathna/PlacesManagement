@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ViewPlace"></activity>
+        <activity android:name=".AdminPg"></activity>
+        <activity android:name=".ViewPlace" />
         <activity android:name=".PlacesVi" />
         <activity android:name=".WelcomeInt" />
         <activity android:name=".Cities" />
